@@ -12,6 +12,8 @@ This repository contains a MERN stack application. The application is containeri
 - Docker Compose installed on your machine
 - Node.js and npm installed on your machine (for running locally)
 
+
+![Screenshot](frontend/uber 2.PNG)
 ## Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
