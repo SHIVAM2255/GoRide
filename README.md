@@ -1,6 +1,9 @@
 # MERN Stack Application
 
 This repository contains a MERN stack application. The application is containerized using Docker and can be easily set up and run using Docker Compose.
+## Video Demo
+
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://drive.google.com/file/d/1PeeknZp_YjWSgvqioOhuEHtfctvtezGG/view?usp=drive_link)
 
 ## Prerequisites
 
