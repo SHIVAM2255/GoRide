@@ -5,7 +5,7 @@ This repository contains a MERN stack application. The application is containeri
 
 [![Watch the video](https://img.youtube.com/vi/[VIDEO_ID](https://images.unsplash.com/photo-1657947953120-6e5201f3b3ed?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dWJlciUyMGNhcnxlbnwwfHwwfHx8MA%3D%3D)/maxresdefault.jpg)](https://drive.google.com/file/d/1PeeknZp_YjWSgvqioOhuEHtfctvtezGG/view?usp=drive_link)
 
-![Screenshot](frontend/ber.png)
+![Screenshot](frontend/uber.png)
 ## Prerequisites
 
 - Docker installed on your machine
