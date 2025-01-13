@@ -25,7 +25,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
 ```
-![Example Image](frontend/uber 2.png)
+![Example Image](frontend/uber1.PNG)
 ### Running the Application with Docker
 
 1. **Build and Start the Containers**
