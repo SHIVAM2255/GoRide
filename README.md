@@ -22,7 +22,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/SHIVAM2255/GoRide.git
 cd your-repo-name
 ```
 ![Example Image](frontend/uber1.PNG)
