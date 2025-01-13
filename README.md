@@ -6,7 +6,7 @@ This repository contains a MERN stack application. The application is containeri
 [![Watch the video](https://img.youtube.com/vi/[VIDEO_ID](https://images.unsplash.com/photo-1657947953120-6e5201f3b3ed?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dWJlciUyMGNhcnxlbnwwfHwwfHx8MA%3D%3D)/maxresdefault.jpg)](https://drive.google.com/file/d/1PeeknZp_YjWSgvqioOhuEHtfctvtezGG/view?usp=drive_link)
 
 ![Screenshot](frontend/uber.PNG)
-![Screenshot](frontend/uber 2.PNG)
+
 ## Prerequisites
 
 - Docker installed on your machine
@@ -25,7 +25,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
 ```
-
+![Screenshot](frontend/uber 2.PNG)
 ### Running the Application with Docker
 
 1. **Build and Start the Containers**
